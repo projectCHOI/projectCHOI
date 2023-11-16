@@ -35,4 +35,5 @@
 <div>
 <img width="200px;" src="project_1_Relevance-between-news-topics-and-trading-volume.PNG"/>
 <img width="200px;" src="project_2_Game-content-reputation-analysis.PNG"/>
+<img width="200px;" src="project_3_Mayor of Gangseo-gu election prediction model.PNG"/>
 </div>

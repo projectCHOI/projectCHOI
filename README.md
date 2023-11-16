@@ -4,7 +4,7 @@
 * 📧 yoonsukchoi93@gmail.com
 
 
-## - ⚡언어 및 도구
+## - ⚡ 언어 및 도구
 <div>
 <img src="https://img.shields.io/badge/Git-F04032?style=for-the-badge&logo=Git&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=ffffff">
@@ -16,14 +16,14 @@
 </div>
 
 
-## - 🌱교육 수료
+## - 🌱 교육 수료
 * Korea Business News TV
   - IT융합 스마트 콘텐츠 (2017.09.01~ 2018.02.28)
 * 새싹 SeSAC(Seoul Software Academy)
   - 실무요건 기반 핀테크 데이터 분석가 과정 (2023.08.28~ 2023.12.01)
 
 
-## - 👏progress 진행상황
+## - 👏 진행상황
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=projectCHOI&show_icons=true&theme=tokyonight)
@@ -31,7 +31,7 @@
 </br>
 
 
-## - 📷사진
+## - 📷 portfolio best cut
 <div align=center>
 <img width="600px;" src="#"/>
 </div>

@@ -1,4 +1,5 @@
 ## - Welcome to choi’s GitHub
+* 👨🏻‍🎓 내용을 넣자.
 * 💻 내용을 넣자.
 * 📧 yoonsukchoi93@gmail.com
 
@@ -19,10 +20,11 @@
 
 ## - 👏progress 진행상황
 <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=projectCHOI&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=projectCHOI&layout=compact&theme=tokyonight)
-<br>
-<br>
+</br>
+
 
 ## - 📷사진
 <div align=center>

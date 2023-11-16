@@ -14,7 +14,7 @@
 
 ## - 🌱교육 수료
 
-## - 👏언어 및 도구
+## - 👏progress 진행상황
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=projectCHOI&show_icons=true&theme=tokyonight)

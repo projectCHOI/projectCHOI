@@ -1,13 +1,18 @@
 ## - Welcome to choi’s GitHub
-* 👨🏻‍🎓 내용을 넣자.
+* 👨🏻‍🎓 Name : 최윤석(YoonSuk Choi)
 * 💻 내용을 넣자.
 * 📧 yoonsukchoi93@gmail.com
 
 
 ## - ⚡언어 및 도구
 <div>
+<img src="https://img.shields.io/badge/Git-F04032?style=for-the-badge&logo=Git&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=ffffff">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white" />
+
+
 </div>
 
 

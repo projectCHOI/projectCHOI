@@ -32,6 +32,6 @@
 
 
 ## - 📷 portfolio best cut
-<div align=center>
-<img width="600px;" src="#"/>
+<div>
+<img width="200px;" src="project_1_Relevance-between-news-topics-and-trading-volume.PNG"/>
 </div>

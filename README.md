@@ -20,5 +20,5 @@
 
 ## - ⚡사진
 <div align=center>
-<img width="600px;" src="315672.jpg"/>
+<img width="600px;" src="#"/>
 </div>

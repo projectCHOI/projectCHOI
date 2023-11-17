@@ -1,7 +1,7 @@
 ## - Welcome to choi’s GitHub
 * 👨🏻‍🎓 Name : 최윤석(YoonSuk Choi)
 * 💻 내용을 넣자.
-* 📧 yoonsukchoi93@gmail.com
+* [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mjihyung@gmail.com)](mailto:yoonsukchoi93@gmail.com) yoonsukchoi93@gmail.com
 
 
 ## - ⚡ 언어 및 도구

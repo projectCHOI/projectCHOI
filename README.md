@@ -32,7 +32,7 @@
 </br>
 
 
-## - 📷 portfolio best cut
+## - 📷 portfolio
 <div>
 <img width="200px;" src="project_1_Relevance-between-news-topics-and-trading-volume.PNG"/>
 <img width="200px;" src="project_2_Game-content-reputation-analysis.PNG"/>

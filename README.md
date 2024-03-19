@@ -1,15 +1,15 @@
 ## - 👨🏻‍🎓  Welcome to choi’s GitHub
 * Name : 최윤석(YoonSuk Choi)
 * 안녕하세요.
-* [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mjihyung@gmail.com)](mailto:yoonsukchoi93@gmail.com) yoonsukchoi93@gmail.com
-
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoonsukchoi93@gmail.com)
+* <img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)">
 
 ## - ⚡ 언어 및 도구
 <div>
 <img src="https://img.shields.io/badge/Git-F04032?style=for-the-badge&logo=Git&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=ffffff">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white" />
 
 

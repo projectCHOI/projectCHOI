@@ -5,44 +5,16 @@
 yoonsukchoi93@gmail.com
 
 ## - ⚡ 언어 및 도구
-| 열 1      | 열 2      |
+| 분류      | 목록      |
+| :---      | :---    |
+| 관리도구 | <img src="https://img.shields.io/badge/Git-F04032?style=for-the-badge&logo=Git&logoColor=ffffff"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=ffffff"> |
+| 개발 환경 및 툴 | <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">     |
+| 프로그래밍 언어 데이터 처리 | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">     |
+| 데이터베이스 | <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white" />     |
+| 클라우드 서비스 | <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">     |
+| 웹 개발     | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">     |
 | :---      | :---     |
-| 왼쪽 정렬 | 가운데 정렬 |
-| 텍스트    | 텍스트    |
 
-* 관리도구
-<div>
-<img src="https://img.shields.io/badge/Git-F04032?style=for-the-badge&logo=Git&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=ffffff">
-</div>
-
-* 개발 환경 및 툴
-<div>
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-</div>
-
-* 프로그래밍 언어 데이터 처리
-<div>
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-</div>
-
-* 데이터베이스
-<div>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white" />
-</div>
-
-* 클라우드 서비스
-<div>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</div>
-
-* 웹 개발
-<div>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</div>
 
 ## - 🌱 교육 수료
 * Korea Business News TV

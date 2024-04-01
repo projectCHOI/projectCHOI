@@ -5,6 +5,11 @@
 yoonsukchoi93@gmail.com
 
 ## - ⚡ 언어 및 도구
+| 열 1      | 열 2      |
+| :---      | :---     |
+| 왼쪽 정렬 | 가운데 정렬 |
+| 텍스트    | 텍스트    |
+
 * 관리도구
 <div>
 <img src="https://img.shields.io/badge/Git-F04032?style=for-the-badge&logo=Git&logoColor=ffffff">

@@ -2,7 +2,7 @@
 * Name : 최윤석(YoonSuk Choi)
 * 안녕하세요. 경영학과를 졸업했고, 데이터 기획과 분석을 공부하고 있습니다.
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoonsukchoi93@gmail.com)
-* <a href="https://velog.io/@zaman17"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yoonsuk_choi/posts"/></a>
+* <a href="https://velog.io/@yoonsuk_choi/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yoonsuk_choi/posts"/></a>
 
 ## - ⚡ 언어 및 도구
 | 분류      | 목록      |

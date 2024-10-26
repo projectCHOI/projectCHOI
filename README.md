@@ -28,7 +28,7 @@
 * 대방연세재활의학과 원무과 근무
   - 데이터 수집, 분석 마케팅 (2021.12.31~ 2023.02.28)
 
-## - 👏 진행상황
+## - 👏 GitHub stats
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=projectCHOI&show_icons=true&)

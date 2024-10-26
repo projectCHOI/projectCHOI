@@ -16,15 +16,17 @@
 | 웹 개발 | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">     |
 | 오피스 환경 | <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">    |
 
-## - 🌱 교육 수료
+## - 🌱 교육
 * Korea Business News TV
   - IT융합 스마트 콘텐츠 (2017.09.01~ 2018.02.28)
-* 대방연세재활의학과 원무과 근무
-  - 데이터 수집, 분석 마케팅 (2021.12.31~ 2023.02.28)
 * 새싹 SeSAC(Seoul Software Academy)
   - 데이터 분석가 과정 (2023.08.28~ 2023.12.01)
 * 새싹 SeSAC(Seoul Software Academy)
   - 웹 프론트엔드, 백엔드 풀스텍 과정 (2024.10.23~ 2025.04.28)
+ 
+## - 👍 근무
+* 대방연세재활의학과 원무과 근무
+  - 데이터 수집, 분석 마케팅 (2021.12.31~ 2023.02.28)
 
 ## - 👏 진행상황
 <br>

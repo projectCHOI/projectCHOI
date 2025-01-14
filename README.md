@@ -4,8 +4,6 @@
 * [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoonsukchoi93@gmail.com)
 * [![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yoonsuk_choi/posts)
 
-##  프로젝트
-
 ## - ⚡ 언어 및 도구
 | 분류      | 목록      |
 | :---      | :---    |
@@ -23,7 +21,7 @@
 * 새싹 SeSAC(Seoul Software Academy)
   - 데이터 분석가 과정 (2023.08.28~ 2023.12.01)
 * 새싹 SeSAC(Seoul Software Academy)
-  - 웹 프론트엔드, 백엔드 풀스텍 과정 (2024.10.23~ 2025.04.28)
+  - 웹 프론트엔드, 백엔드 풀스텍 과정 (2024.10.23~ 2025.01.13)
  
 ## - 👍 근무
 * 대방연세재활의학과 원무과 근무

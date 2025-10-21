@@ -1,6 +1,7 @@
 ## - 👨🏻‍🎓  Welcome to choi’s GitHub
 * Name : 최윤석(YoonSuk Choi)
 * 안녕하세요. 경영학과를 졸업했고, 데이터 기획과 분석을 공부하고 있습니다.
+* AI 교육
 * [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoonsukchoi93@gmail.com)
 * [![Tech Blog Badge](https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yoonsuk_choi/posts)
 

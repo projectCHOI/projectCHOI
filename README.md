@@ -32,6 +32,7 @@
 <img width="200px;" src="project_1_Relevance-between-news-topics-and-trading-volume.PNG"/>
 <img width="200px;" src="project_2_Game-content-reputation-analysis.PNG"/>
 <img width="200px;" src="project_3_Mayor of Gangseo-gu election prediction model.PNG"/>
-<img width="200px;" src="project_4_Dodge a Red Box.PNG"/>
 <img width="200px;" src="project_5_flow-of-time-visualization.png"/>
+<img width="200px;" src="project_4.2_Pixel-Predators-The-Artistic-Invasion.JPG"/>
+  
 </div>

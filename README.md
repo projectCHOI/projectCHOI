@@ -34,5 +34,5 @@
 <img width="200px;" src="project_3_Mayor-of-Gangseo-gu-election-prediction-model.PNG"/>
 <img width="200px;" src="project_4.2_Pixel-Predators-The-Artistic-Invasion.PNG"/>
 <img width="200px;" src="project_5_flow-of-time-visualization.PNG"/>
-<img width="200px;" src="project_6_The gear.PNG"/>
+<img width="200px;" src="project_7_The gear.PNG"/>
 </div>
